@@ -1,0 +1,6 @@
+{
+  "name": "MotoPass – Vehicle License & Inspection Result Portal",
+  "description": "Software Testing laboratory and case study portal for vehicle registration, driving license applications, component inspection scoring, digital wallet payments, IEEE-829 test plans, BVA/EP, white-box coverage, and defect tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
